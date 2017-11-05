@@ -1,0 +1,44 @@
+{
+	"heroesList" : [
+		{
+			"id": "1",
+			"name": "Moshe"
+		},
+		{
+			"id": "2",
+			"name": "Juliet"
+		},
+		{
+			"id": "3",
+			"name": "Gilberto"
+		},
+		{
+			"id": "4",
+			"name": "Fanny"
+		},
+		{
+			"id": "5",
+			"name": "Elizbeth"
+		},
+		{
+			"id": "6",
+			"name": "Brendon"
+		},
+		{
+			"id": "7",
+			"name": "Victor"
+		},
+		{
+			"id": "8",
+			"name": "Messi"
+		},
+		{
+			"id": "9",
+			"name": "Hillary"
+		},
+		{
+			"id": "10",
+			"name": "Tamera"
+		}
+	]
+}
