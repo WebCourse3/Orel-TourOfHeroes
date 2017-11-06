@@ -1,0 +1,25 @@
+{
+  "name": "toh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebCourse3/Orel-TourOfHeroes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebCourse3/Orel-TourOfHeroes/issues"
+  },
+  "homepage": "https://github.com/WebCourse3/Orel-TourOfHeroes#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mocha": "^4.0.1",
+    "parse-json": "^4.0.0"
+  }
+}
